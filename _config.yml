@@ -1,7 +1,7 @@
 # site settings
 title: MyWatts
 subtitle: Power mobility and independence
-email: dadmin.dgor@gmail.com
+#email: dadmin.dgor@gmail.com
 description: Power mobility and independence, industrial bespoke SW/HW solutions, machine vision, machine learning
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -24,13 +24,13 @@ tiles-count: 6
 socials:
   GitHub: https://github.com/mywatts
   GitLab:
-  Google-Plus: 
+  Google-Plus:
   Instagram:
   LinkedIn: https://www.linkedin.com/in/daniel-g%C3%B3rny-0a273284/
   Twitter: https://twitter.com/reverbrick
   Facebook:
   Slack:
-
+#https://formspree.io/f/mayagwob
 # build settings
 markdown: kramdown
 
