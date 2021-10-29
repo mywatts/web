@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Power Mobility and Independence
+title: Portfolio
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

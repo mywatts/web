@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Industrial bespoke HW/SW solutions
+title: Industrial Solutions
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
