@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Power Mobility and Independence
-image: assets/images/pic01.jpg
+description: Batteries, Battery Packs, Battery Banks, Charge Controllers, Batery Recycling
+image: batteries.jpg
 nav-menu: true
 ---
 

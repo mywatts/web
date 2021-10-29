@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Industrial Solutions
-description: Lorem ipsum dolor est
+description: Embedded Software, Machine Vision, Machine Learning, Machine Interfacing, Custom Electronics
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
