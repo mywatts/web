@@ -24,18 +24,12 @@
 		<section class="split">
 			<section>
 				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<a href="tel:{{ site.phone }}">{{ site.phone }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
 					<span class="icon alt fa-home"></span>
 					<h3>Address</h3>
 					<span>
-					ReverbLand
-					NIP: 967-099-04-75
+					ReverbLand<br />
+					NIP: 967-099-04-75<br />
+					Phone: <a href="tel:{{ site.phone }}">{{ site.phone }}</a><br />
 					{% if site.street_address %}
 					    {{ site.street_address }}<br />
 					{% endif %}
